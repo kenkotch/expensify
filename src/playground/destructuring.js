@@ -26,7 +26,6 @@
 // console.log(publisherName)
 
 
-
 // array destructuring
 
 const address = ['123 My Street', 'Boulder', 'CO', '80303']
